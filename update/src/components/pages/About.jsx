@@ -14,10 +14,15 @@ export default function About() {
         </p>
 
       <h1>Projects</h1> 
-      <p>
+      <p> Better Meals is a web application that allows users to search for recipes based on ingredients they have on hand.
+      <br />
       <a href="mailto: https://github.com/ToussaintG1/better-meals.git ">https://github.com/ToussaintG1/better-meals.git</a> 
+      <a href="mailto:  https://ToussaintG1.github.io/better-meals/ "> https://ToussaintG1.github.io/better-meals/</a> 
       <br /> 
-      <a href="mailto: https://github.com/Johnnae/11-notes-.git ">https://github.com/Johnnae/11-notes-.git </a>
+      Notes is a web application that allows users to create, save, and delete notes.
+      <br />
+      <a href="mailto: https://github.com/Johnnae/11-notes-.git ">https://github.com/Johnnae/11-notes-.git </a> 
+      <a href="mailto: https://git.heroku.com/note-taker-908.git ">https://git.heroku.com/note-taker-908.git </a>
       </p>
     
     </div>
