@@ -1,19 +1,5 @@
-// import { useState } from 'react'
-// import reactLogo from './assets/react.svg'
-// import viteLogo from '/vite.svg'
-// import './App.css'
-import Navbar from './components/Navbar' 
-import Project from './components/Project'
-function App() {
-  
+import PortfolioContainer from "./components/PortfolioContainer";
 
-  return (
-    <> 
-    <h1>hello</h1> 
-      <Navbar /> 
-      <Project />
-    </>
-  )
-}
+const App = () => <PortfolioContainer />;
 
-export default App
+export default App;
