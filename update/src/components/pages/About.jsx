@@ -16,8 +16,8 @@ export default function About() {
       <h1>Projects</h1> 
       <p> Better Meals is a web application that allows users to search for recipes based on ingredients they have on hand.
       <br />
-      <a href="mailto: https://github.com/ToussaintG1/better-meals.git ">https://github.com/ToussaintG1/better-meals.git</a> 
-      <a href="mailto:  https://ToussaintG1.github.io/better-meals/ "> https://ToussaintG1.github.io/better-meals/</a> 
+      <a href=" https://github.com/ToussaintG1/better-meals.git ">https://github.com/ToussaintG1/better-meals.git</a> 
+      <a href=" https://ToussaintG1.github.io/better-meals/ "> https://ToussaintG1.github.io/better-meals/</a> 
       <br /> 
       Notes is a web application that allows users to create, save, and delete notes.
       <br />

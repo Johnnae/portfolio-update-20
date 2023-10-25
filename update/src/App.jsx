@@ -1,5 +1,5 @@
 import PortfolioContainer from "./components/PortfolioContainer"; 
-import './App.css';
+import './index.css';
 
 
 const App = () => <PortfolioContainer />;
