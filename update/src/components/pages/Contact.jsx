@@ -5,9 +5,9 @@ export default function Contact() {
       <p>
         I can be reached at the following:
         <br /> 
-        <a href="mailto: Email.com ">Email.com</a> 
+        <a href="Email.com ">Email</a> 
         <br />
-        <a href="mailto: Linkedin.com ">Linkedin.com</a>
+        <a href="Linkedin.com ">Linkedin</a>
 
       </p>
     </div>
