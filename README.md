@@ -39,6 +39,8 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 ### Links 
 https://github.com/Johnnae/portfolio-update-20.git 
 
+![image](./src/components/assets/profile.png)
+
 ### Contributors 
 Tutors 
 Class assignments
